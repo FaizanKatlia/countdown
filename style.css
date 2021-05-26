@@ -1,0 +1,35 @@
+#pk,#ok,#inn{
+   /* border: 2px solid black; */
+    text-align: center;
+}
+h1{
+    display: inline;
+    font-size: 72pt;
+    text-align: center;
+    /* color: rgb(161, 108, 43); */
+    color: saddlebrown;
+}
+#pk{
+    background-color: tan;
+    border-radius: 150px;
+    width: 50%;
+    height: 200pt;
+    margin: 0 auto;
+    margin-top: 16%;
+}
+body{
+    background-color: saddlebrown;
+}
+#ok{
+    padding-top: 20px;
+}
+#inn{
+    padding-top: 70px;
+}
+button {
+    width: 100px;
+    height : 50px;
+    background-color: saddlebrown;
+    color:rgb(223, 202, 153);
+    font-size: 16pt;
+}
